@@ -1,6 +1,6 @@
 {
-    "name": "Hello World",
-    "id": "helloworld",
+    "name": "Grupp 054",
+    "id": "grupp054",
     "packaging_format": 1,
     "version": "0.1~ynh1",
     "description": {
@@ -37,8 +37,8 @@
                     "en": "Choose a path for HelloWorld",
                     "fr": "Choisissez un chemin pour HelloWorld"
                 },
-                "example": "/helloworld",
-                "default": "/helloworld"
+                "example": "/grupp054",
+                "default": "/grupp054"
             },
             {
                 "name": "is_public",
